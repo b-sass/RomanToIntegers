@@ -1,2 +1,2 @@
 # RomanToIntegers
-A simple program which converts roman numerals to integers.
+A simple program taht converts Roman numerals to integers.
